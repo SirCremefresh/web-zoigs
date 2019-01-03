@@ -11,7 +11,7 @@ namespace web_zoigs
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            
         }
     }
 }
